@@ -14,7 +14,7 @@ body {
     justify-content: flex-start;
 }
 
-/* Yleiset päälaatikot */
+
 .header, .autot-section, .contact-section, .hero-section, section, main > section {
     max-width: 990px;
     width: 100%;
