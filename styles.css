@@ -113,7 +113,7 @@ article p {
     margin-bottom: 0.1em;
 }
 
-/* Contact-sivu: info ja kartta samassa */
+
 .contact-section {
     background: rgba(170,180,200,0.16);
     border-radius: 18px;
@@ -151,7 +151,7 @@ article p {
     box-shadow: 0 2px 10px #a0b9d0;
 }
 
-/* Hero-section etusivulle */
+
 .hero-section {
     background: rgba(170,180,200,0.16);
     border-radius: 18px;
@@ -194,7 +194,7 @@ article p {
     color: #222;
 }
 
-/* Main-sisältö keskitetty (kaikille sivuille yhteinen keskitys ja minHeight) */
+
 .main-centered {
     display: flex;
     flex-direction: column;
